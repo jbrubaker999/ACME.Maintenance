@@ -1,0 +1,9 @@
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Persistence\bin\Debug\ACME.Maintenance.Persistence.dll
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Persistence\bin\Debug\ACME.Maintenance.Persistence.pdb
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Persistence\bin\Debug\ACME.Maintenance.Domain.dll
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Persistence\bin\Debug\ACME.Maintenance.Domain.pdb
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Persistence\obj\Debug\ACME.Maintenance.Persistence.csprojResolveAssemblyReference.cache
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Persistence\obj\Debug\ACME.Maintenance.Persistence.dll
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Persistence\obj\Debug\ACME.Maintenance.Persistence.pdb
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Persistence\bin\Debug\AutoMapper.dll
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Persistence\bin\Debug\AutoMapper.xml

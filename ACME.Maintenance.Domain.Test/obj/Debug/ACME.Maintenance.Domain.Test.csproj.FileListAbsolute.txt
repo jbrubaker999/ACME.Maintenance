@@ -1,0 +1,13 @@
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\bin\Debug\ACME.Maintenance.Domain.Test.dll
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\bin\Debug\ACME.Maintenance.Domain.Test.pdb
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\bin\Debug\ACME.Maintenance.Domain.dll
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\bin\Debug\ACME.Maintenance.Domain.pdb
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\obj\Debug\ACME.Maintenance.Domain.Test.csprojResolveAssemblyReference.cache
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\obj\Debug\ACME.Maintenance.Domain.Test.dll
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\obj\Debug\ACME.Maintenance.Domain.Test.pdb
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\bin\Debug\ACME.Maintenance.Persistence.dll
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\bin\Debug\ACME.Maintenance.Persistence.pdb
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\bin\Debug\FakeItEasy.dll
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\bin\Debug\FakeItEasy.xml
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\bin\Debug\AutoMapper.dll
+c:\users\bob\documents\visual studio 2012\Projects\ACME.Maintenance\ACME.Maintenance.Domain.Test\bin\Debug\AutoMapper.xml
